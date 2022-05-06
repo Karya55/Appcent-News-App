@@ -12,7 +12,7 @@ interface NewsApi {
     @GET("v2/top-headlines")
     suspend fun getBreakingNews(
         @Query("country")
-        countryCode: String = "us", //US is for temperary, We can write Turkey as "tur" too!
+        countryCode: String = "tr", //Turkey is for temperary, We can write USA as "us" too!
         @Query("page")
         pageNumber: Int = 1,
         @Query("apiKey")
