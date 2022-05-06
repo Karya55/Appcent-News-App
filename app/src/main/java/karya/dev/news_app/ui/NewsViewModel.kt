@@ -23,7 +23,7 @@ class NewsViewModel(
     var searchNewsResponse: NewsResponse? = null
 
     init {
-        getBreakingNews("us") //can change for turkey.
+        getBreakingNews("tr") //can change for other countries.
     }
 
     fun getBreakingNews(countryCode: String) = viewModelScope.launch {
