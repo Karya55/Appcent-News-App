@@ -24,3 +24,12 @@ Note: Person can travel to the resources by clicking to the sources name.
 - npm install
 - Start the App:
 - npm start
+
+## Features
+Search News
+Show news in detail when you tapped
+View news in its source address on WebView
+Add to the "Saved (Favourites)"
+Delete Saved (Favourites)
+Share the news
+Custom Alert Screen
