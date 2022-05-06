@@ -16,3 +16,11 @@ It uses Room Library to save news as favorites and loads and removes the data fr
 Made for Appcent.
 Note: Person can travel to the resources by clicking to the sources name.
 
+## How to install on your computer
+Fork the Repository
+Clone the Repository
+- git clone <url>
+Install the required dependencies and packages through npm or yarn
+- npm install
+Start the App
+- npm start
