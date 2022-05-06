@@ -11,7 +11,7 @@
 - [Glide](https://github.com/bumptech/glide)
 
 ## About The App :bulb:
-This app uses [NewsAPI](https://newsapi.org/) to get the news in US(Can change of course). It uses Retrofit 2 to fetch and search for news from the API.
+This app uses [NewsAPI](https://newsapi.org/) to get the news in Turkey(Can change of course). It uses Retrofit 2 to fetch and search for news from the API.
 It uses Room Library to save news as favorites and loads and removes the data from DB, 
 Made for Appcent.
 Note: Person can travel to the resources by clicking to the sources name.
